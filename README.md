@@ -48,7 +48,7 @@ It features smooth animations, dark/light mode toggle, and mobile responsiveness
 
 ---
 
-## 🎓 Education Timeline (Example)
+## 🎓 Education Timeline
 
 - **NIT Warangal** – B.Tech in Computer Science (2023–2027)
 - **Chaitanya's International School** – Class 12 (82.67%)
